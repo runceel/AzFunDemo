@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunDemo", "AzFunDemo\AzFunDemo.csproj", "{666884AE-C292-4012-9C3D-0F2E84975C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunDemo.Client", "AzFunDemo.Client\AzFunDemo.Client.csproj", "{8B277794-D0A2-434A-BBBE-52A5460C5C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666884AE-C292-4012-9C3D-0F2E84975C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666884AE-C292-4012-9C3D-0F2E84975C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666884AE-C292-4012-9C3D-0F2E84975C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666884AE-C292-4012-9C3D-0F2E84975C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B277794-D0A2-434A-BBBE-52A5460C5C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B277794-D0A2-434A-BBBE-52A5460C5C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B277794-D0A2-434A-BBBE-52A5460C5C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B277794-D0A2-434A-BBBE-52A5460C5C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FBCEC8-DC89-47F0-A6DA-F6E0247D8479}
+	EndGlobalSection
+EndGlobal
