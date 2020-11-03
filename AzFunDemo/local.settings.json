@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDb": "AccountEndpoint=https://azfundemo.documents.azure.com:443/;AccountKey=lzjmiSlDmLwQeg0Md5iQJjtsCdl8Jam20XqR6MoWiSi4wSJvCiiBQsME2u37VEW8AwBGMYZDFrOE4Wjwq9xHTA==;",
+    "AzureSignalRConnectionString": "Endpoint=https://azfundemo.service.signalr.net;AccessKey=Mr8gW8loldouyaTkmu76fHh1V6G544usyMm5L5H9+Y8=;Version=1.0;"
+  }
+}
